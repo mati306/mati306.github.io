@@ -162,14 +162,14 @@ header .menu{
   width: 100%;
   height: auto;
   padding: 30px 10px;
-  overflow: hidden;
 }
 
 #img{
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 10px 0px;
+  padding: 10px 10px;
+  overflow: hidden;
 }
 
 a.anchor{
